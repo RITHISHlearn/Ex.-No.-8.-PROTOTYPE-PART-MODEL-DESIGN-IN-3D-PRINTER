@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: RITHISH P
+### Register Number: 212223230173
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
